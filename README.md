@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Abhijeet Biswal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on React Native & React JS <br>🌱 I’m currently learning Typescript <br>🤝 I’m looking for a new role in React Native & React JS <br>📫 How to reach me abhijeetbiswal.code@gmail.com
 
